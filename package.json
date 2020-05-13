@@ -1,0 +1,9 @@
+{
+  "name": "wc-visualizations",
+  "version": "1.0.0",
+  "description": "visualization app for Writing Centers",
+  "main": "index.js",
+  "repository": "https://github.com/NguyenDytrich/wc-visualizations",
+  "author": "<nguyen.dytrich@gmail.com>",
+  "license": "MIT"
+}
